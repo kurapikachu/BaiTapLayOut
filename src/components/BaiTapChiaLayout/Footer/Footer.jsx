@@ -13,7 +13,7 @@ export default class Footer extends Component {
             color: "white",
           }}
         >
-          Copyright by CyberSoft
+          Copyright by CyberSoft a
         </div>
       </div>
     );

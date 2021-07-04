@@ -7,6 +7,7 @@ import Footer from "./components/BaiTapChiaLayout/Footer/Footer";
 function App() {
   return (
     <div>
+      
       <Header />
       <Carousel />
       <Intro />
